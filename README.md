@@ -1,5 +1,5 @@
 ># 👋 안녕하세요, 임승렬입니다. 
-> 
+<!--
 > 👀 I’m interested in ...
 > 
 > 🌱 I’m currently learning ...
@@ -8,6 +8,8 @@
 > 
 > 📫 How to reach me ...
 >
+-->
+
 > ![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) 
 > ![](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
