@@ -9,10 +9,10 @@
 > 📫 How to reach me ...
 >
 -->
-
+<!--
 > ![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) 
 > ![](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
+-->
 -----
 >![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=LimSR12&show_icons=true&theme=gruvbox)
 <!---
