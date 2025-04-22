@@ -1,37 +1,17 @@
-<!-- # 👋 안녕하세요, 임승렬입니다. -->
-<!--
-> 👀 I’m interested in ...
-> 
-> 🌱 I’m currently learning ...
-> 
-> 💞️ I’m looking to collaborate on ...
-> 
-> 📫 How to reach me ...
->
--->
-<!--
-> ![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) 
-> ![](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
--->
------
->![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=LimSR12&show_icons=true&theme=gruvbox)
-<!---
-// chart link
-https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
---->
------
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=LimSR12&show_icons=true&theme=gruvbox)
+
+
+![](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md)
+
+
+![]([https://starchart.cc/{LimSR12}/{C}.svg](https://github-readme-stats.vercel.app/api/top-langs/?username={LimSR12}&theme=blue-green&show_icons=true))
 
 
 
 
-<!--- ![]([https://starchart.cc/{LimSR12}/{C}.svg](https://github-readme-stats.vercel.app/api/top-langs/?username={LimSR12}&theme=blue-green&show_icons=true)) --->
 
-
-
-
-<!---
-skills
---->
 <!---
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -50,9 +30,4 @@ skills
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
---->
-
-<!---
-LimSR12/LimSR12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
