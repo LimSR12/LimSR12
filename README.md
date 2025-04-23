@@ -1,34 +1,31 @@
 <!--
-
->![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=LimSR12&show_icons=true&theme=gruvbox)
-
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&text=&animation=&fontColor=000000&fontSize=70" />
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: ; text-align: left;" "text-align: left;"> 
+          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white">
+          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+          <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
+          <br/>
+          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
+          <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">
+    </div>
+</div>
 -->
 
-![](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimSR12&layout=compact&hide=html,css&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"/> 
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=LimSR12&hide=stars,contribs&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"/> 
+    </td>
+  </tr>
+</table>
 
-
-![]([https://starchart.cc/{LimSR12}/{C}.svg](https://github-readme-stats.vercel.app/api/top-langs/?username={LimSR12}&theme=blue-green&show_icons=true))
-
-
-
-
-
-<!---
-![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
---->
+    
