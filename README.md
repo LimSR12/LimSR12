@@ -20,10 +20,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimSR12&layout=compact&hide=html,css&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"/> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimSR12&layout=compact&hide=html,css&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000&count_private=true"/> 
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=LimSR12&hide=stars,contribs&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"/> 
+      <img src="https://github-readme-stats.vercel.app/api?username=LimSR12&hide=stars,contribs&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000&count_private=true"/> 
     </td>
   </tr>
 </table>
