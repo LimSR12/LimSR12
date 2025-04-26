@@ -22,10 +22,10 @@
     </div>
     <div>
     </div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimSR12&layout=compact&hide=html,css&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000&count_private=true"/> 
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a>
         <img src="https://github-readme-stats.vercel.app/api?username=LimSR12&hide=&count_private=true&theme=shadow_red&show_icons=true&include_all_commits=true"/> 
     </a>
 </div>
