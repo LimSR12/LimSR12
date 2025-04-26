@@ -18,6 +18,7 @@
 -->
 
 <!--
+
 <table>
   <tr>
     <td>
@@ -29,4 +30,17 @@
   </tr>
 </table>
 -->
-    
+
+
+<div style="align: center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimSR12&layout=compact&hide=html,css&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000&count_private=true"/> 
+</div>
+<div style="align: center">
+    <img src="https://github-readme-stats.vercel.app/api?username=LimSR12&hide=stars,contribs&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000&count_private=true"/> 
+</div>
+
+
+
+
+
+
