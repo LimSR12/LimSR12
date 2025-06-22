@@ -24,4 +24,12 @@
     <a>
         <img src="https://github-readme-stats.vercel.app/api?username=LimSR12&hide=&count_private=true&theme=shadow_red&show_icons=true"/> 
     </a>
+    <!--
+    <a>
+        <img src="http://mazassumnida.wtf/api/generate_badge?boj=tmdfuf1201"/>
+    </a>
+    -->
 </div>
+<!--
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tmdfuf1201)](https://solved.ac/tmdfuf1201)
+-->
