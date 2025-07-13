@@ -17,19 +17,15 @@
 </div>
 -->
 
-<div align="center">
-    <a>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimSR12&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000&count_private=true"/> 
-    </a>
-    <a>
-        <img src="https://github-readme-stats.vercel.app/api?username=LimSR12&hide=&count_private=true&theme=shadow_red&show_icons=true"/> 
-    </a>
-    <!--
-    <a>
-        <img src="http://mazassumnida.wtf/api/generate_badge?boj=tmdfuf1201"/>
-    </a>
-    -->
+<div style="display: flex; justify-content: center; align-items: center; height: 400px;">
+  <a style="margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=LimSR12&hide=&count_private=true&theme=shadow_red&show_icons=true"
+         style="height: 200px;" />
+  </a>
+  <a style="margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimSR12&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000&count_private=true"
+         style="height: 200px;" />
+  </a>
 </div>
-<!--
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tmdfuf1201)](https://solved.ac/tmdfuf1201)
--->
+
+
