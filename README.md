@@ -20,11 +20,11 @@
 <div style="display: flex; justify-content: center; align-items: center; height: 400px;">
   <a style="margin: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=LimSR12&hide=&count_private=true&theme=shadow_red&show_icons=true"
-         style="height: 200px;" />
+         style="height: 180px;" />
   </a>
   <a style="margin: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimSR12&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000&count_private=true"
-         style="height: 200px;" />
+         style="height: 180px;" />
   </a>
 </div>
 
