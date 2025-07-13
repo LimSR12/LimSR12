@@ -17,7 +17,7 @@
 </div>
 -->
 
-<div style="display: flex; justify-content: center; align-items: center; height: 400px;">
+<div style="display: flex; justify-content: center; align-items: center; height: 300px;">
   <a style="margin: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=LimSR12&hide=&count_private=true&theme=shadow_red&show_icons=true"
          style="height: 180px;" />
