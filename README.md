@@ -6,10 +6,10 @@
     height="300"
   />
   </a>
-  <a style="margin: 10px;">
+  <!-- <a style="margin: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=LimSR12&hide=&count_private=true&theme=swift&show_icons=true"
          style="height: 180px;" />
-  </a>
+  </a> -->
   <!-- <a style="margin: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimSR12&layout=compact&theme=swift&count_private=true"
          style="height: 180px;" />
