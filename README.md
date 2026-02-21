@@ -20,6 +20,6 @@
 [![Hits](https://hit-me-up-336ec.web.app/api/count/increment?url=https%3A%2F%2Fgithub.com%2FLimSR12&title=hits&title_bg=615c5c&count_bg=78c0f7&edge_flat=false)](https://hit-me-up-336ec.web.app)
 
 <div align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LimSR12&theme=ayu_mirage&utcOffset=8" width="34%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LimSR12&theme=ayu_mirage" width="34%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LimSR12&theme=ayu_mirage&utcOffset=8" width="34%">
 </div>
