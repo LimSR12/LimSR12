@@ -21,5 +21,5 @@
 
 <div align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LimSR12&theme=ayu_mirage" width="34%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LimSR12&theme=ayu_mirage&utcOffset=8" width="34%">
+  <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LimSR12&theme=ayu_mirage&utcOffset=8" width="34%"> -->
 </div>
