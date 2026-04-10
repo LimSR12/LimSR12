@@ -36,7 +36,7 @@ CI/CD, 테스트, API 문서화까지 실무처럼 구성하는 게 목표입니
 
 -->
 
-<div style="display: flex; justify-content: center; align-items: center; height: 300px;">
+<!-- <div style="display: flex; justify-content: center; align-items: center; height: 300px;">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=LimSR12&utm_content=farm">
   <img
     src="https://render.gitanimals.org/farms/LimSR12"
@@ -44,7 +44,7 @@ CI/CD, 테스트, API 문서화까지 실무처럼 구성하는 게 목표입니
     height="250"
   />
   </a>
-</div>
+</div> -->
 
 
 
